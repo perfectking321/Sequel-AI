@@ -1,4 +1,4 @@
-# ConversationGraph MVP
+# ConversationGraph Prototype
 
 ## Quick Start
 
