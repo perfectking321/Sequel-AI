@@ -1,5 +1,9 @@
 # ConversationGraph Prototype
 
+## Prototype DEMO
+![WhatsApp Image 2025-09-04 at 16 45 39_5fa13058](https://github.com/user-attachments/assets/a38165aa-3246-4e0e-82fa-48f323dc7e6a)
+
+
 ## Quick Start
 
 1. Clone this repo and go into folder:
@@ -22,3 +26,4 @@
 - MongoDB for storage
 - Real-time WebSocket graph updates
 - React + Cytoscape.js visualization
+
